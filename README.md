@@ -32,7 +32,7 @@ Factional- used to generate perfect fraction no.
 Uniqid- used to generate unique id/value.
 
 ### ECMA script 6,7,8 
-The application has been programmed following the latest ES6,7,8 featurs and specifications like arrow function string template ,modules import/export, async-await,promoises and etc and thus require dependencies like babel and webpack and babel polyfill for browser support.
+The application has been programmed following the latest ES6,7,8 featurs and specifications like arrow functions, string template ,modules import/export, async-await,promises etc and thus require dependencies like babel ,webpack and babel polyfill for browser support.
 
 ## Getting Started
 
